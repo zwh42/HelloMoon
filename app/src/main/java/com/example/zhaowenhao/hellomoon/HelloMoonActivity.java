@@ -1,9 +1,9 @@
 package com.example.zhaowenhao.hellomoon;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 
-public class HelloMoonActivity extends AppCompatActivity {
+public class HelloMoonActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
