@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">你好月球</string>
+    <string name="hellomoon_play">播放</string>
+    <string name="hellomoon_stop">停止</string>
+    <string name="hellomoon_pause">暂停</string>
+    <string name="hellomoon_description">Neil Armstrong 登陆月球</string>
+</resources>
